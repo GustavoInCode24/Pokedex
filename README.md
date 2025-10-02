@@ -86,16 +86,24 @@ cd Pokedex/pokedex
 4. Verifique o resultado no console. A aplicação irá consumir dados da API e exibir informações de Pokémon.
 
 ---
-🎓 Objetivo Educacional
 
-Este projeto foi criado como exercício prático introdutório para reforçar os fundamentos do Spring Boot e da arquitetura Java.
-Ele não utiliza banco de dados nem interface gráfica — o foco aqui é entender como organizar um projeto Java/Spring, como fazer chamadas externas e como aplicar boas práticas desde o começo.
+## 🎓 Objetivo Educacional
+
+Este projeto foi criado como parte de uma introdução prática ao **Spring Boot**, com o objetivo de aprender e aplicar conceitos essenciais do framework em um cenário divertido.  
+Foca em:
+
+- Organização de pacotes e camadas (client, model, service)
+- Consumo de APIs REST
+- Manipulação de dados JSON
+- Uso do Spring Boot de forma simples e eficiente
+
+Ideal para quem está começando no ecossistema Spring e quer entender como estruturar projetos reais.
 
 ---
 
-👤 Autor
+## 👤 Autor
 
--Gustavo Lemos
--GitHub: @GustavoInCode24
+**Gustavo Lemos**  
+GitHub: [@GustavoInCode24](https://github.com/GustavoInCode24)
 
    
