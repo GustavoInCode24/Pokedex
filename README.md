@@ -83,7 +83,7 @@ cd Pokedex/pokedex
 ```bash
 ./mvnw spring-boot:run
 ```
-4.Verifique o resultado no console. A aplicação irá consumir dados da API e exibir informações de Pokémon.
+4. Verifique o resultado no console. A aplicação irá consumir dados da API e exibir informações de Pokémon.
 
 ---
 🎓 Objetivo Educacional
@@ -95,7 +95,7 @@ Ele não utiliza banco de dados nem interface gráfica — o foco aqui é entend
 
 👤 Autor
 
-Gustavo Lemos
-GitHub: @GustavoInCode24
+-Gustavo Lemos
+-GitHub: @GustavoInCode24
 
    
