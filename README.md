@@ -22,7 +22,6 @@ Este projeto consome dados de uma API pública de Pokémon e os transforma em ob
 
 ```
 Pokedex/
-└── pokedex/
 └── src/
 └── main/
 └── java/
