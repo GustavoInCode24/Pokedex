@@ -103,6 +103,6 @@ Ideal para quem está começando no ecossistema Spring e quer entender como estr
 ## 👤 Autor
 
 **Gustavo Lemos**  
-GitHub: [@GustavoInCode24](https://github.com/GustavoInCode24)
+GitHub: [@GustavoLDO](https://github.com/GustavoLDO)
 
    
